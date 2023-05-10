@@ -11,8 +11,6 @@ export default function App(props) {
   'L2' : Layout2
   }
   let Layout = layouts[Component.layout]
-  console.log(pageProps)
-
 
   return (
     <Layout>

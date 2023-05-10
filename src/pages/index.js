@@ -1,5 +1,6 @@
 import Home from "./Home"
-import About from "./About"
+// import About from "./About"
+
 
 export default function Index() {
   return (
@@ -8,3 +9,5 @@ export default function Index() {
     </>
   )
 }
+
+Index.layout = 'L1'
