@@ -1,5 +1,5 @@
 import React from 'react'
-import Layout1 from '../../../Layouts/Layout1/Layout1'
+import Layout1 from '../../Layouts/Layout1/Layout1'
 
 const Home = () => {
   return (
